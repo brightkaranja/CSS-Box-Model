@@ -1,0 +1,10 @@
+.container{
+    border: dotted 1px black;
+    border-radius: 5%;
+    padding: 20px;
+    margin: 5%;
+    font-style: oblique;
+}
+.inner-container{
+    border: solid 1px rgb(226, 162, 43);
+}
